@@ -1,4 +1,4 @@
-## Work Finder App
+## Job Finder App
 
 A job-matching web application built with Laravel, TailwindCSS, Blade, and AlpineJS, inspired by platforms like LinkedIn and JobStreet.
 
